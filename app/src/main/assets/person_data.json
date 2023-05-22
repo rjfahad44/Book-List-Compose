@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "George Orwell",
+    "date_publish": "June 8, 1949",
+    "summary": "\"1984\" is a dystopian novel that depicts a totalitarian society controlled by a repressive government known as Big Brother. The story follows Winston Smith, a citizen who rebels against the oppressive regime and seeks freedom of thought and expression.",
+    "genre": "Science Fiction",
+    "ratings": 4.5,
+    "url": "https://reqres.in/img/faces/1-image.jpg"
+  },
+  {
+    "id": 2,
+    "name": "George Orwell",
+    "date_publish": "June 8, 1949",
+    "summary": "\"1984\" is a dystopian novel that depicts a totalitarian society controlled by a repressive government known as Big Brother. The story follows Winston Smith, a citizen who rebels against the oppressive regime and seeks freedom of thought and expression.",
+    "genre": "Science Fiction",
+    "ratings": 4.5,
+    "url": "https://reqres.in/img/faces/1-image.jpg"
+  }
+]

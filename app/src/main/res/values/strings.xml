@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Halaman</string>
+    <string name="title_activity_halaman_details">HalamanDetails</string>
+    <string name="title_activity_halaman_about">HalamanAbout</string>
+</resources>
