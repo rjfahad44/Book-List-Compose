@@ -90,7 +90,7 @@ class MainActivity : ComponentActivity() {
                     if (searchTextState.isNotEmpty()){
                         ShowListView(isLoading, ArrayList(allPersonList.filter { it.name.lowercase(
                             Locale.getDefault()
-                        ).contains(searchTextState.toLowerCase(Locale.getDefault())) }))
+                        ).contains(searchTextState.lowercase(Locale.getDefault())) }))
                     }else{
                         ShowListView(isLoading, allPersonList)
                     }
